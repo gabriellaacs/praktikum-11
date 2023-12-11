@@ -2,3 +2,6 @@ praktikum 11
 
 ini adalah gab
 ini branch dua
+
+berada di branch1
+
